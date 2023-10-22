@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "2c28445bebbe2609",
+    "type": "split",
+    "children": [
+      {
+        "id": "c277b266cafed1db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07a6fd82fb1ad85f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70102a38b8760690",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f65859478bbfa88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bfd63a9383112cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dfae10545181f78a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d542c49c32912ff4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "99a9117640dc6584",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb726243a6807b80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6989a32801b13a71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "635dd5dbed888a74",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "369c3ad92229358c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "61b275fb38c7a3f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "07a6fd82fb1ad85f",
+  "lastOpenFiles": [
+    "Chapter 7. Optical Tracking/Optical Tracking.md",
+    "Chapter 7. Optical Tracking/Marker Tracking.md",
+    "Chapter 7. Optical Tracking/img/Marker Tracking_Can't Cover World.png",
+    "Chapter 7. Optical Tracking/img/Marker Tracking_Other Marker Tracking Libraries.png",
+    "Chapter 7. Optical Tracking/img/Marker Bsed Tracking_Tracking Challenges in ARToolKit.png",
+    "Chapter 7. Optical Tracking/img/Marker Based Tracking_ARToolKit.png",
+    "Chapter 7. Optical Tracking/img/Estimating an Image Pose.png",
+    "Chapter 7. Optical Tracking/img/Image Tracking AR.png",
+    "Chapter 7. Optical Tracking/Visual Feature/Visual Feature (시각적 특징).md",
+    "Chapter 7. Optical Tracking/Visual Feature/Keypoint (주요점).md",
+    "Chapter 7. Optical Tracking/img/Visual Feature_Keypoint and Descriptor.png",
+    "Chapter 7. Optical Tracking/img/Keypoint_FAST Corner Keypoint Detection.png",
+    "Chapter 7. Optical Tracking/img/Keypoint_Corners and Edges.png",
+    "Chapter 7. Optical Tracking/img/Descriptors_SIFT.png",
+    "Chapter 7. Optical Tracking/Visual Feature/Descriptors (기술자).md",
+    "README.md",
+    "Chapter 6. AR Tracking/Tracking Technologies/Tracking Technologies.md",
+    "Chapter 6. AR Tracking/AR Tracking.md",
+    "Chapter 6. AR Tracking/Coordinate Systems.md",
+    "Chapter 6. AR Tracking/Tracking Requirments.md",
+    "Chapter 7. Optical Tracking/Visual Feature",
+    "Chapter 7. Optical Tracking/img",
+    "Chapter 6. AR Tracking/Tracking Technologies/Mobile Sensors.md",
+    "Chapter 6. AR Tracking/Tracking Technologies/Global Positioning System (GPS).md",
+    "Chapter 6. AR Tracking/Tracking Technologies/Ultrasonic Tracker.md",
+    "Chapter 6. AR Tracking/Tracking Technologies/Inertial Tracker.md",
+    "Chapter 6. AR Tracking/Tracking Technologies/Magnetic Tracker.md",
+    "Chapter 6. AR Tracking/Tracking Technologies/Mechnical Tracker.md",
+    "Chapter 2. History of AR/History of AR.md",
+    "Chapter 2. History of AR/Sutherland HMD.md",
+    "Chapter 3. Popular AR Development Frameworks/Vuforia.md",
+    "Chapter 3. Popular AR Development Frameworks/ARKit (iOS).md",
+    "Chapter 3. Popular AR Development Frameworks/ARCore (Android).md",
+    "Chapter 3. Popular AR Development Frameworks/AR Development Frameworks.md",
+    "Chapter 3. Popular AR Development Frameworks/비교.md",
+    "Chapter 6. AR Tracking/Tracking Technologies",
+    "Chapter 6. AR Tracking/Spatial Registration/Spatial Registration.md",
+    "Chapter 6. AR Tracking/Spatial Registration/Dynamic Errors (동적 에러).md",
+    "Chapter 6. AR Tracking/Spatial Registration",
+    "Chapter 6. AR Tracking/img",
+    "Chapter 5. AR Displays/img",
+    "Chapter 7. Optical Tracking",
+    "Chapter 6. AR Tracking",
+    "Chapter 5. AR Displays",
+    "Chapter 4. AR Applications"
+  ]
+}
