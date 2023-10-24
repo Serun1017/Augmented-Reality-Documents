@@ -11,8 +11,12 @@
             "id": "07a6fd82fb1ad85f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 4. AR Applications/AR Applications.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chapter 4. AR Applications/AR Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chapter 4. AR Applications/AR Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chapter 4. AR Applications/AR Applications.md"
+              }
             }
           }
         ]
@@ -140,6 +148,16 @@
   },
   "active": "07a6fd82fb1ad85f",
   "lastOpenFiles": [
+    "README.md",
+    "Chapter 4. AR Applications/AR Applications.md",
+    "Chapter 2. History of AR/History of AR.md",
+    "Chapter 2. History of AR/Mobile Phone AR (2005).md",
+    "Chapter 2. History of AR/Pepper's Ghost (1862).md",
+    "Chapter 2. History of AR/Pokemon GO.md",
+    "Chapter 2. History of AR/Strong vs Weak AR.md",
+    "Chapter 2. History of AR/Super Cockpit Program.md",
+    "Chapter 2. History of AR/Sutherland HMD.md",
+    "Chapter 2. History of AR/Augmented Reality Today.md",
     "Chapter 7. Optical Tracking/Optical Tracking.md",
     "Chapter 7. Optical Tracking/Marker Tracking.md",
     "Chapter 7. Optical Tracking/img/Marker Tracking_Can't Cover World.png",
@@ -155,7 +173,6 @@
     "Chapter 7. Optical Tracking/img/Keypoint_Corners and Edges.png",
     "Chapter 7. Optical Tracking/img/Descriptors_SIFT.png",
     "Chapter 7. Optical Tracking/Visual Feature/Descriptors (기술자).md",
-    "README.md",
     "Chapter 6. AR Tracking/Tracking Technologies/Tracking Technologies.md",
     "Chapter 6. AR Tracking/AR Tracking.md",
     "Chapter 6. AR Tracking/Coordinate Systems.md",
@@ -168,16 +185,8 @@
     "Chapter 6. AR Tracking/Tracking Technologies/Inertial Tracker.md",
     "Chapter 6. AR Tracking/Tracking Technologies/Magnetic Tracker.md",
     "Chapter 6. AR Tracking/Tracking Technologies/Mechnical Tracker.md",
-    "Chapter 2. History of AR/History of AR.md",
-    "Chapter 2. History of AR/Sutherland HMD.md",
     "Chapter 3. Popular AR Development Frameworks/Vuforia.md",
-    "Chapter 3. Popular AR Development Frameworks/ARKit (iOS).md",
-    "Chapter 3. Popular AR Development Frameworks/ARCore (Android).md",
-    "Chapter 3. Popular AR Development Frameworks/AR Development Frameworks.md",
-    "Chapter 3. Popular AR Development Frameworks/비교.md",
     "Chapter 6. AR Tracking/Tracking Technologies",
-    "Chapter 6. AR Tracking/Spatial Registration/Spatial Registration.md",
-    "Chapter 6. AR Tracking/Spatial Registration/Dynamic Errors (동적 에러).md",
     "Chapter 6. AR Tracking/Spatial Registration",
     "Chapter 6. AR Tracking/img",
     "Chapter 5. AR Displays/img",
