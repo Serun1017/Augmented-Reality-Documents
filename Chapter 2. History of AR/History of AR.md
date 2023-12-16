@@ -113,7 +113,7 @@ Economist
 - Wired
 - Colors
 - Red Bull
-[![video Label](https://img.youtube.com/vi/y3EXE608hMg/0.jpg)
+![video Label](https://img.youtube.com/vi/y3EXE608hMg/0.jpg)
 
 ---
 # Outdoor Information Overlay (2009)

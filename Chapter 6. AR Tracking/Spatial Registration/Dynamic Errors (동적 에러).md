@@ -25,7 +25,7 @@ Dynamic Errors (동적 에러)는 증강 현실 (AR) 시스템에서 가상 콘�
 
 - 빠른 구성 요소나 시스템 모듈을 사용하여 시스템 내의 지연을 최소화한다.
 - 빠른 처리 속도를 갖는 컴포넌트를 사용함으로써 지연을 최소화하고 더 빠른 반응 속도를 제공한다.
-## Reduce Apparent Lag (Image Deflection/Image Warping)(표면 변형 및 왜곡)
+## Reduce Apparent Lag (Image Deflection / Image Warping)(표면 변형 및 왜곡)
 
 - 이미지를 변형하거나 왜곡시켜 시스템의 지연을 감추어 사용자가 지연을 덜 느끼도록 한다.
 ## Match Video + Graphics input Stream (Video AR) (비디오 및 그래픽 입력 스트림 일치)
@@ -35,7 +35,7 @@ Dynamic Errors (동적 에러)는 증강 현실 (AR) 시스템에서 가상 콘�
 ## Predictive Tracking (예측 추적)
 
 - 관성 센서 등을 사용하여 사용자의 움직임을 예측하여 시스템 지연을 보상한다. 이로써 실제 환경과 가상 콘텐츠의 정렬을 더욱 정확하게 유지할 수 있다.
-- 예측 추적은 미래의 사용자 움직임을 예측하여 시스템의 반응 속도를 향상시킨다.
+- 예측 추적은 미래의 사용자 움직임을 예측하여 시스템의 반응 속도를 향상 시킨다.
 - 이를 통해 사용자가 움직였을 때에도 가상 콘텐츠가 정확하게 따라가게 된다.
 
 ![[Dynamic Errors_Predictive Tracking 1.png]]

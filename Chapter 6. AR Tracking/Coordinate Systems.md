@@ -2,7 +2,7 @@
 ---
 # Local Object Coordinate
 
-Local Object Coordinate는 개발 가상 물체에 대한 지역 좌표계이다. 각 가상 물체는 자체의 지역 좌표계를 가짐, 이 좌표계는 해다 물체의 위치와 방향을 정의한다.
+Local Object Coordinate는 개발 가상 물체에 대한 지역 좌표계이다. 각 가상 물체는 자체의 지역 좌표계를 가지고, 이 좌표계는 해당 물체의 위치와 방향을 정의한다.
 
 ## Model Transformation
 
@@ -15,7 +15,7 @@ Global World Coordinates는 AR 환경에서 모든 물체에 대한 공통 기�
 
 ## View Transformation
 
-- 가상 물체의 움직임, Observer의 움직임에 따라 변하는 가상 물체의 좌표를 Global World Coordinate에서 Eye Coordinate에 맞도록 편환하는 프로세스이다.
+- 가상 물체의 움직임, Observer의 움직임에 따라 변하는 가상 물체의 좌표를 Global World Coordinate에서 Eye Coordinate에 맞도록 변환하는 프로세스이다.
 
 ---
 # Eye Coordinates

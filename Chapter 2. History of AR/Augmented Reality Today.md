@@ -11,10 +11,10 @@
    - Kinect과 같은 입력 장치를 통해 사용자는 증강 현실 환경에서 상호작용할 수 있다.
    - 이는 제스처, 음성, 물리적 동작 등을 통해 이루어진다.
 4. 개발자 도구
-   - Vuforia, ARKit, ARCore, Unity, Unreal Engine 과 같은 개발자 도구는 증강 현실 애플리키에션 및 콘텐츠를 개발하는데 사용된다.
+   - Vuforia, ARKit, ARCore, Unity, Unreal Engine 과 같은 개발자 도구는 증강 현실 애플리케이션 및 콘텐츠를 개발하는데 사용된다.
 
 ---
-# AR/VR Market
+# AR / VR Market
 
 - 2023년에는 증강 현실 및 가상 현실(AR/VR) 시장이 2023년에 $ 31.12 Billon 로 평가 되었다. 이는 AR 및 VR 기술이 계속해서 성장하고 다양한 산업 및 분야에서 채택되고 있음을 시사한다.
 

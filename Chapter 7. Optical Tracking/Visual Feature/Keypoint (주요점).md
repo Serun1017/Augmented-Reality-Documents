@@ -49,4 +49,4 @@ FAST 알고리즘은 특정 위치에서 픽셀 값과 주변 픽셀 값의 비�
 
 ![[Keypoint_FAST Corner Keypoint Detection.png]]
 
-[![video Label](https://img.youtube.com/vi/vEkHoYpMD3Y/0.jpg)
+![video Label](https://img.youtube.com/vi/vEkHoYpMD3Y/0.jpg)

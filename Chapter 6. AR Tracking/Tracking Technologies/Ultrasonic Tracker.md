@@ -2,7 +2,7 @@
 ---
 Ultrasonic Tracker (초음파 트래커)는 소리 파동의 송출 및 수신을 통해 사용자의 위치 및 방향을 추적하는 기술이다. 이러한 트래커는 초음파 파동이 송출된 시간과 수신된 시간을 측정하여 거리를 계산하고, 이를 통해 위치 정보를 유추한다.
 
-![[Pasted image 20231022155755.png]]
+![[Ultrasonic Tracker.png]]
 
 ---
 # 장점
@@ -15,9 +15,9 @@ Ultrasonic Tracker 는 비교적 저렴한 소재로 만들 수 있으며, 이�
 
 ---
 # 단점
-## 3DOF
+## 3 DOF
 
-Ultrasonic Tracker 는 일반적으로 3DOF (3 Degrees of Freedom) 정보를 제공한다. 이는 위치와 방향의 일부 측면에서는 제한적일 수 있다.
+Ultrasonic Tracker 는 일반적으로 3 DOF (3 Degrees of Freedom) 정보를 제공한다. 이는 위치와 방향의 일부 측면에서는 제한적일 수 있다.
 ## Line of Sight (직선 시야)
 
 Ultrasonic Tracker 는 직선 시야 (Line of Sight)가 필요하며, 장애물이 있는 경우 추적 정확도가 저하될 수 있다.

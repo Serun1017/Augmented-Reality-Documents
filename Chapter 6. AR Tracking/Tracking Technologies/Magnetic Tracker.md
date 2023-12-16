@@ -2,11 +2,11 @@
 ---
 Magnetic Tracker (자기 트래커)는 사용자의 위치와 방향을 추적하기 위해 자기장을 활용하는 기술로, 자기장 소스에서 생성된 자기장을 감지하고 이로부터 사용자의 위치와 방향 정보를 유추한다.
 
-![[Pasted image 20231022153851.png]]
+![[Magnetic Tracker.png]]
 
 ---
 # 장점
-## 6DOF(6 Degrees of Freedom)
+## 6 DOF(6 Degrees of Freedom)
 
 Magnetic Tracker는 사용자의 위치와 방향을 6개의 독립적인 움직임 자원으로 추적할 수 있다. 이는 사용자의 자유로운 움직임을 지원하며 높은 정밀도를 제공한다.
 ## Robust (견고함)

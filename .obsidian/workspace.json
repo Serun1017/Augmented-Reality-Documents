@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 4. AR Applications/AR Applications.md",
+                "file": "Chapter 7. Optical Tracking/Optical Tracking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25249f01e6a271f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 7. Optical Tracking/Optical Tracking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bf2c09e4928ef8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c873c5e7a4bb743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 7. Optical Tracking/Visual Feature/Visual Feature (시각적 특징).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 4. AR Applications/AR Applications.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 4. AR Applications/AR Applications.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 4. AR Applications/AR Applications.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,53 +183,53 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "07a6fd82fb1ad85f",
+  "active": "2bfd63a9383112cc",
   "lastOpenFiles": [
+    "Chapter 11. Introduction to XRAccess/Introduction to XR Access.md",
+    "Chapter 11. Introduction to XRAccess/Inclusive Design.md",
+    "Inclusive DesignInclusive Design (포괄적 디자인).md",
+    "Chapter 11. Introduction to XRAccess/img",
+    "Chapter 11. Introduction to XRAccess/img/Ensure All Users Benefit from XR.png",
     "README.md",
-    "Chapter 4. AR Applications/AR Applications.md",
-    "Chapter 2. History of AR/History of AR.md",
-    "Chapter 2. History of AR/Mobile Phone AR (2005).md",
-    "Chapter 2. History of AR/Pepper's Ghost (1862).md",
-    "Chapter 2. History of AR/Pokemon GO.md",
-    "Chapter 2. History of AR/Strong vs Weak AR.md",
-    "Chapter 2. History of AR/Super Cockpit Program.md",
-    "Chapter 2. History of AR/Sutherland HMD.md",
-    "Chapter 2. History of AR/Augmented Reality Today.md",
+    "Chapter 10. Designing AR Experiences/Designing AR Experiences.md",
+    "Chapter 11. Introduction to XRAccess",
+    "Chapter 10. Designing AR Experiences",
+    "Chapter 9. AR Interaction/AR Interaction.md",
+    "Chapter 9. AR Interaction/Multimodal Interactions.md",
+    "Chapter 9. AR Interaction/Head Mounted Display.md",
+    "Chapter 9. AR Interaction/img/HoloLens Gestures.png",
+    "Chapter 9. AR Interaction/img",
+    "Chapter 9. AR Interaction/img/Tangible Interaction.png",
+    "Chapter 9. AR Interaction",
+    "Chapter 8. Spatial Augmented Reality/Cameras in SAR.md",
+    "Chapter 8. Spatial Augmented Reality/Calibration in SAR.md",
+    "Chapter 8. Spatial Augmented Reality/Spatial Augmented Reality.md",
+    "Chapter 8. Spatial Augmented Reality/Projectors in SAR.md",
+    "Chapter 8. Spatial Augmented Reality/Display Surfaces.md",
+    "Chapter 8. Spatial Augmented Reality/img/Spatial Augmented Reality_Example2.png",
+    "Chapter 8. Spatial Augmented Reality/img/Spatial Augmented Reality_Example1.png",
+    "Pasted image 20231216163126.png.md",
+    "Chapter 7. Optical Tracking/SLAM.md",
+    "Chapter 8. Spatial Augmented Reality/img",
+    "Chapter 8. Spatial Augmented Reality",
     "Chapter 7. Optical Tracking/Optical Tracking.md",
-    "Chapter 7. Optical Tracking/Marker Tracking.md",
-    "Chapter 7. Optical Tracking/img/Marker Tracking_Can't Cover World.png",
-    "Chapter 7. Optical Tracking/img/Marker Tracking_Other Marker Tracking Libraries.png",
-    "Chapter 7. Optical Tracking/img/Marker Bsed Tracking_Tracking Challenges in ARToolKit.png",
-    "Chapter 7. Optical Tracking/img/Marker Based Tracking_ARToolKit.png",
-    "Chapter 7. Optical Tracking/img/Estimating an Image Pose.png",
-    "Chapter 7. Optical Tracking/img/Image Tracking AR.png",
+    "Chapter 7. Optical Tracking/img/Feature-Based vs. Direct Method.png",
+    "Chapter 7. Optical Tracking/Markerless Tracking.md",
+    "Chapter 7. Optical Tracking/img/Outdoor AR Tracking System.png",
+    "Chapter 7. Optical Tracking/img/Framework of Traditional VSLAM.png",
+    "Chapter 7. Optical Tracking/SLAM (Simultaneously Localize And Map the environment).md",
     "Chapter 7. Optical Tracking/Visual Feature/Visual Feature (시각적 특징).md",
-    "Chapter 7. Optical Tracking/Visual Feature/Keypoint (주요점).md",
-    "Chapter 7. Optical Tracking/img/Visual Feature_Keypoint and Descriptor.png",
-    "Chapter 7. Optical Tracking/img/Keypoint_FAST Corner Keypoint Detection.png",
-    "Chapter 7. Optical Tracking/img/Keypoint_Corners and Edges.png",
-    "Chapter 7. Optical Tracking/img/Descriptors_SIFT.png",
-    "Chapter 7. Optical Tracking/Visual Feature/Descriptors (기술자).md",
-    "Chapter 6. AR Tracking/Tracking Technologies/Tracking Technologies.md",
+    "Chapter 4. AR Applications/AR Applications.md",
+    "Chapter 5. AR Displays/Head Mounted Displays (HMD).md",
+    "Chapter 5. AR Displays/AR Displays.md",
+    "Chapter 6. AR Tracking/AR Requirments.md",
     "Chapter 6. AR Tracking/AR Tracking.md",
     "Chapter 6. AR Tracking/Coordinate Systems.md",
-    "Chapter 6. AR Tracking/Tracking Requirments.md",
+    "Chapter 7. Optical Tracking/img/Detection and Tracking.png",
+    "Chapter 7. Optical Tracking/img/Tracking by Keypoint Detection.png",
+    "Chapter 7. Optical Tracking/Marker Tracking.md",
     "Chapter 7. Optical Tracking/Visual Feature",
     "Chapter 7. Optical Tracking/img",
-    "Chapter 6. AR Tracking/Tracking Technologies/Mobile Sensors.md",
-    "Chapter 6. AR Tracking/Tracking Technologies/Global Positioning System (GPS).md",
-    "Chapter 6. AR Tracking/Tracking Technologies/Ultrasonic Tracker.md",
-    "Chapter 6. AR Tracking/Tracking Technologies/Inertial Tracker.md",
-    "Chapter 6. AR Tracking/Tracking Technologies/Magnetic Tracker.md",
-    "Chapter 6. AR Tracking/Tracking Technologies/Mechnical Tracker.md",
-    "Chapter 3. Popular AR Development Frameworks/Vuforia.md",
-    "Chapter 6. AR Tracking/Tracking Technologies",
-    "Chapter 6. AR Tracking/Spatial Registration",
-    "Chapter 6. AR Tracking/img",
-    "Chapter 5. AR Displays/img",
-    "Chapter 7. Optical Tracking",
-    "Chapter 6. AR Tracking",
-    "Chapter 5. AR Displays",
-    "Chapter 4. AR Applications"
+    "Chapter 6. AR Tracking/Tracking Technologies"
   ]
 }
